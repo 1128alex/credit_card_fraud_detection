@@ -6,14 +6,12 @@ Credit card fraud detection project using scikit-learn and TensorFlow including 
 
 ## ✨ Features
 - Single Jupyter notebook pipeline: load, clean, split, train, evaluate
-- Robust scaling for amount‑like features (RobustScaler)
+- Robust scaling for amount‑like features
 - Multiple classifiers compared side‑by‑side:
-  - Logistic Regression, Linear SVC (class_weight='balanced')
+  - Logistic Regression, Linear SVC
   - Random Forest, Gradient Boosting
-  - Shallow Neural Network (baseline)
-- Classification reports per model (precision/recall/F1, support)
+  - Shallow Neural Network
 - Handling extreme data imbalance
-- Exported model summary to `model_report.txt`
 
 ## 🛠️ Tech Stack
 - Python
@@ -21,7 +19,7 @@ Credit card fraud detection project using scikit-learn and TensorFlow including 
 - pandas
 - numpy
 - scikit‑learn
-- matplotlib (for plots)
+- matplotlib
 
 ## 📁 Project Structure
 ```
