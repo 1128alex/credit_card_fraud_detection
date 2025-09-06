@@ -1,6 +1,6 @@
-# Alex Lee — Credit Card Fraud Detection (Scikit‑learn + Jupyter)
+# Credit Card Fraud Detection (Scikit‑learn + Jupyter)
 
-End‑to‑end notebook for detecting fraudulent credit card transactions using classical ML. Includes preprocessing, model training, class‑imbalance handling, and side‑by‑side evaluation with precision/recall/F1.
+Credit card fraud detection project using scikit-learn and TensorFlow including preprocessing, model training, data‑imbalance handling, and model evaluation with precision/recall/F1.
 
 - Repository: https://github.com/1128alex/credit_card_fraud_detection
 
